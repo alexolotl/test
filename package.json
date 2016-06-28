@@ -1,0 +1,20 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "First MEAN app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Alex Zisis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^1.4.40",
+    "mongoskin": "^1.4.13",
+    "monk": "^1.0.1"
+  }
+}
